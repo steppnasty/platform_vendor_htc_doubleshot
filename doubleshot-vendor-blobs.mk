@@ -45,7 +45,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libgemini.so:system/lib/libgemini.so \
   vendor/htc/doubleshot/proprietary/lib/libidl.so:system/lib/libidl.so \
   vendor/htc/doubleshot/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-  vendor/htc/doubleshot/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
   vendor/htc/doubleshot/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
   vendor/htc/doubleshot/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
   vendor/htc/doubleshot/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
