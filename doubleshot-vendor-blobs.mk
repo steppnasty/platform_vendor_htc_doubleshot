@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/doubleshot/proprietary/etc/vpimg:system/etc/vpimg \
   vendor/htc/doubleshot/proprietary/bin/akmd:system/bin/akmd \
-  vendor/htc/doubleshot/proprietary/bin/awb_camera:system/bin/awb_camera \
   vendor/htc/doubleshot/proprietary/bin/bma150_usr:system/bin/bma150_usr \
   vendor/htc/doubleshot/proprietary/bin/charging:system/bin/charging \
   vendor/htc/doubleshot/proprietary/bin/htcbatt:system/bin/htcbatt \
