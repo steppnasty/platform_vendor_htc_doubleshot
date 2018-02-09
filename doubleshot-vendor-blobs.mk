@@ -59,7 +59,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_preview.so:system/lib/libchromatix_s5k3h2yx_preview.so \
   vendor/htc/doubleshot/proprietary/lib/libchromatix_s5k3h2yx_zsl.so:system/lib/libchromatix_s5k3h2yx_zsl.so \
   vendor/htc/doubleshot/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
-  vendor/htc/doubleshot/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/htc/doubleshot/proprietary/lib/libdll.so:system/lib/libdll.so \
   vendor/htc/doubleshot/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
   vendor/htc/doubleshot/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
